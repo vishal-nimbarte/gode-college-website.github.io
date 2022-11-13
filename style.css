@@ -1,0 +1,133 @@
+body{
+    		padding:0px;
+    		margin:0px;
+    		background-color: papayawhip;
+    	}
+    	*{
+    		margin: 0px;
+    		padding: 0px;
+    	}
+    	a{
+    		color: #000000;
+    		margin-left: 20px;
+    		border-radius: 2px;
+    		font-size: 20px;
+    		font-family: "cursive;";
+    	}
+    	a:hover{
+    		background-color: black;
+    		color: red;
+    	}
+    	#unorder_list{
+    		border: 5px solid #ebfffc;
+    		outline: 2px solid #a07b7b;
+    	}
+    	.bg-dark{
+    		background-color: #d1cfb3!important;
+    	}
+    	.media{
+    		padding: 20px;
+    		background-color: papayawhip;
+    		border-radius: 10px;
+    		cursor: pointer;/*progress*/
+    	}
+    	.media-body{
+    		background-color: ghostwhite;
+    	}
+    	.media-body p{
+    		text-align: left;
+    		border: 3px solid skyblue;
+    	}
+    	.h3, h3 {
+         font-size: 1.5rem;
+         font-family: "monospace;";
+        }
+    	.media-body h5{
+    		color: red;
+    		font-style: italic;
+    		text-align: center;
+    	}
+    	.media-body h3{
+    		text-align: center;
+    		padding: 10px;
+    		margin: 10px;
+    		border: 2px solid red;
+    		background-color: greenyellow;
+    		border-radius: 4px;
+    	}
+    	.media-body:hover{
+    		background-color: floralwhite;
+    	}
+    	.media img{
+    		border-radius: 60%;
+    		border: 0.3px solid black;
+    		background-color: lightblue;
+    		margin-left: 10px;
+    		margin-right: 10px;
+    	}
+    	.container{
+    		margin-top: 5px;
+    		margin-bottom: 10px;
+    		padding: 0px;
+    	}
+    	.col-md-4 h1{
+    		color: darkred;
+    		font-size: 40px;
+    		font-family: "cursive;";
+    		text-align: center;
+    	}
+    	.col-md-4 p{
+    		text-align: justify;
+    		margin-right: 20px;
+    		font-style: italic;
+    		font-family: cursive;
+    	} 
+    	.card-body{
+    		padding: 0px;
+    		background-color: whitesmoke;
+    		margin: 0px;
+    	}
+    	.card-header{
+    		border: 2px solid red;
+    		background-color: #ffeb3b;
+    	}
+    	.card-body li{
+    		margin-bottom: 15px;
+    		text-align: justify;
+    		padding: 10px;
+    	}
+    	.col-md-6 h4{
+    		text-align: center;
+    		font-family: monospace;
+    		margin-top: 5px;
+    		color: red;
+    		border: 2px solid blue;
+    		border-radius: 10px;
+    		background-color: skyblue;
+    	}
+    	.col-md-6 p{
+    		font-family: cursive;
+    	}
+    	#media-one{
+    		border: 3px double goldenrod;
+    		outline: 1px double blue;
+    	}
+    	.card-footer:hover p{
+    		background-color: lightyellow;
+    		color: red;
+    	}
+    	.container-fluid h1{
+    		text-align: center;
+    		font-family: console;
+/*    		font-weight: 700px;*/
+    		font-size: 60px;
+    		color: darkred;
+    	}
+    	.container-fluid p{
+    		text-align: center;
+    		font-family: cursive;
+    		font-style: italic;
+    	}
+    	#about{
+    		font-size: 50px;
+    	}
